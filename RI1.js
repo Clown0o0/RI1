@@ -252,12 +252,9 @@ function comparar(p1, p2) {
     console.log("=".repeat(50) + "\n");
 }
 
-console.log("INICIANDO COMPARAÇÕES\n");
-
 for (let i = 0; i < personagens.length; i++) {
     for (let j = i + 1; j < personagens.length; j++) {
         comparar(personagens[i], personagens[j]);
     }
 }
 
-console.log("FIM DAS COMPARAÇÕES");
