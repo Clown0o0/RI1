@@ -75,7 +75,7 @@ const hulk = {
     }
 };
 
-const viuvaNegra = {
+const viuvaNegrasubmarino = {
     nome: "Natasha Romanoff",
     codinome: "Viúva Negra",
     armaPrincipal: "Artes marciais",
@@ -213,7 +213,7 @@ const personagens = [
     panteraNegra,
     homemDeFerro,
     hulk,
-    viuvaNegra,
+    viuvaNegrasubmarino,
     thor,
     homemAranha,
     homemFormiga,
@@ -257,4 +257,5 @@ for (let i = 0; i < personagens.length; i++) {
         comparar(personagens[i], personagens[j]);
     }
 }
+
 
