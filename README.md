@@ -1,29 +1,16 @@
-<div align="center">
-<h1>Atv. RI1</h1>
-</div>
+# RI1
 
-Você é fã de vingadores?
+<img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=RI1+-+Objetos+Literais" alt="RI1 banner">
 
-Desenvolva um projeto, em JavaScript, para criar objetos que
-representem personagens do universo Marvel, especificamente
-os vingadores. Veja o exemplo em seguida!
+Comparação de atributos de força, velocidade e resistência entre personagens da Marvel.
 
-Importante! Você devera criar objetos para todos os super-heróis
-e seu principal rival, o Thanos.
+## Objetivo
+Criar vários objetos literais representando heróis e vilões e compará-los dois a dois.
 
-Objetivos!
+## Arquivos
+- `RI1.js` (único arquivo com todos os personagens e a função de comparação)
 
-Todos os personagens deverão ser colocados em um Array.
+## Como rodar
 
-No seu projeto, desenvolva um código que faça a comparação entre
-cada personagem, ou seja, seus atributos. Utilize estruturas de
-repetição (ex: for) para percorrer cada elemento do Array e fazer a
-comparação.
-
-Por fim, seu projeto deve imprimir a descrição de cada personagem
-que esta sendo comparado e também apontar onde um
-personagem “vence” (possui um valor maior no atributo numérico)
-
-
-
-
+```bash
+node RI1.js
