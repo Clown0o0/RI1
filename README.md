@@ -1,7 +1,5 @@
 # RI1
 
-<img src="https://via.placeholder.com/800x200/000000/FFFFFF?text=RI1+-+Objetos+Literais" alt="RI1 banner">
-
 Comparação de atributos de força, velocidade e resistência entre personagens da Marvel.
 
 ## Objetivo
